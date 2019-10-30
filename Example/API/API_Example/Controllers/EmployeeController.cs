@@ -11,7 +11,7 @@ using System.Web.Http;
 
 namespace API_Example.Controllers
 {
-    public class EmployeeController : Controller
+    public class EmployeeController : ApiController
     {
         // GET: Employee
 
